@@ -1,0 +1,1 @@
+pyinstaller -Fw CScrapy.py -i CScrapy.ico
